@@ -529,7 +529,7 @@ footer .copyright {
     line-height: 150px;
   }
   nav {
-    justify-content: unset;
+    justify-content: unset; 
   }
   .menu {
     position: relative;
